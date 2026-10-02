@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Beato David Carlos de Vergara Marañon</title>
+</head>
+<body>
+    <header>
+        <h1>Proyecto Beato David Carlos de Vergara Marañon</h1>
+    </header>
+   <nav>
+            <ul>
+                 <li>Biografía</li> 
+                 <ul>
+                    <li><a href="biografia/intro.html"></a>¿Quién fué el Beato David Carlos de Vergara Marañon?</li>
+                    <li><a href="biografia/infancia.html"></a>Su infancia y su familia</li>
+                    <li><a href="biografia/descubrimientovocacion.html"></a>El descubrimiento de su vocación</li>
+                    <li><a href="biografia/ingresoep.html"></a>Su ingreso en las Escuelas Pías</li>
+                    <li><a href="biografia/vida.html"></a>Su vida cotidiana y su servicio.</li>
+                    <li><a href="biografia/persecucion.html"></a>La persecución religiosa de 1936.</li>
+                    <li><a href="biografia/ultimosdias.html"></a>Los últimos días de David Carlos</li>
+                    <li><a href="biografia/martirio.html"></a>El martirio de David Carlos</li>
+                </ul>
+                 <li>Beatificación & Reconocimiento de su Martirio </li>
+                 <li>Legado</li>
+            </ul>
+    </nav>
+    <footer> Por Camila Zambrano & Abril González de 3er año C </footer>
