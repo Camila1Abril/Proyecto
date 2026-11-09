@@ -1,0 +1,97 @@
+body {
+    background-color: #f5f0e8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #333;
+}
+
+header {
+    background-color: #702f3b;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #4d252d;
+    padding: 15px;
+}
+
+nav ul {
+    display: flex;
+     justify-content: center;
+    gap: 40px;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+main {
+    padding: 25px;
+}
+
+.card {
+    background-color: white;
+    padding: 25px;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px #ccc;
+    max-width: 800px;
+}
+
+.card h2 {
+    color: #702f3b;
+}
+
+.card img {
+    width: 250px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.card1, .card2 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 3px 8px #ccc;
+}
+
+.card1 h4, .card2 h4 {
+    color: #702f3b;
+}
+
+.mapa {
+    text-align: center;
+    margin: 30px;
+}
+
+iframe {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #4d252d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
